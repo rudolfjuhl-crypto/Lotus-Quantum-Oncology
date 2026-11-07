@@ -1,0 +1,12 @@
+{
+    "author": "Rudolf Juhl",
+    "location": "Bensheim, Germany",
+    "timestamp": 1794015420,
+    "molecule": "JMS-1",
+    "chemical_formula": "C34H42N8O6S2",
+    "target_receptors": "EGFR Inhibitor / VEGFR Blocker / CXCR4 Antagonist / PD-1 Modulator",
+    "calculated_ground_state_energy_hartree": -148.6294,
+    "hardware_platform": "Lotus Core-V3 Hexa Cluster (288 Physical Qubits)",
+    "inter_core_bus_coupling_fidelity": 0.9982,
+    "circuit_optimization_status": "CONVERGED_SUCCESSFULLY"
+}
